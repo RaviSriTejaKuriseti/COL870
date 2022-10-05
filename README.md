@@ -1,1 +1,1 @@
-# COL870
+All the assignments done in Deep Learning Course
